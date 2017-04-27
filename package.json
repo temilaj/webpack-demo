@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/temilaj/webpack-demo/issues"
   },
-  "homepage": "https://github.com/temilaj/webpack-demo#readme"
+  "homepage": "https://github.com/temilaj/webpack-demo#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }

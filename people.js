@@ -1,6 +1,7 @@
-function getHello(){
-    return 'Hello World from getHello';
-}
+let people = [
+    {name: 'John Doe', email: 'johndoe@email.com'},
+    {name: 'Steve Smith'},
+    {name: 'Williams Doe'},
+];
 
-module.exports = "Hello Everone";
-module.exports = getHello();
+module.exports = people;

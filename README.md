@@ -16,5 +16,3 @@ run webpack
 ```zsh 
 webpack app.js bundle.js --watch
 ```
-
-I would love to hear your [feedback](https://temilajumoke.com)
