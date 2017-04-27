@@ -14,5 +14,5 @@ npm install
 
 run webpack
 ```zsh 
-webpack app.js bundle.js --watch
+webpack --watch
 ```
