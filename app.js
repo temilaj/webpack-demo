@@ -1,3 +1,5 @@
+require('!style-loader!css-loader!./style.css')
+
 let $ = require('jquery');
 const people = require('./people.js');
  
