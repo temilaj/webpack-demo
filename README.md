@@ -2,17 +2,19 @@
 
 ## Run & Deploy
 
-install webpack and webpack dev-server as global dependencies
+Install webpack and the webpack development server as global dependencies
+
 ```bash
  npm i -g webpack webpack-dev-server
 ```
 
-restore the npm packages described in the `package.json`.
+Restore the npm packages described in the `package.json`.
 ```zsh 
 npm install
 ```
 
-run webpack
+Run the application
+
 ```zsh 
 npm start
 ```
